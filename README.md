@@ -1,2 +1,1 @@
-# swagger
-Djangorestframework and swagger
+#nextjs
